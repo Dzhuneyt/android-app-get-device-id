@@ -1,0 +1,9 @@
+<resources>
+
+  <string name="app_name">ID на Устройство</string>
+    <string name="your_device_id_is">ID на вашето устройство:</string>
+    <string name="emailSubject">ID на моето устройство е:</string>
+    <string name="what_is_device_id">ID номерът е уникален код за всяко устройство, състоящ се от 16 букви и цифри.\n\nИзползва се от разработчици на приложения и при тестване.</string>
+    <string name="email_it">Изпрати го по имейл</string>
+
+</resources>

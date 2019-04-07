@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Find Device ID</string>
+    <string name="your_device_id_is">Your Device ID Is:</string>
+    <string name="emailSubject">My Android device ID is:</string>
+    <string name="what_is_device_id">The Android device ID is a 16-character unique identifier of each Android-based device.\n\nIt is useful for debugging and development purposes.</string>
+    <string name="email_it">Email It</string>
+
+</resources>
