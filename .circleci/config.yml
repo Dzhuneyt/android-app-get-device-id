@@ -14,8 +14,8 @@ jobs:
           name: Fix Gradle permissions
           command: sudo chmod +x ./gradlew
       - run:
-        name: Accept SDK licenses
-        command: (yes | sdkmanager --licenses || exit 0) && (yes | sdkmanager --update || exit 0)
+          name: Accept SDK licenses
+          command: (yes | sdkmanager --licenses || exit 0) && (yes | sdkmanager --update || exit 0)
       - run:
           name: Download project dependencies
           command: ./gradlew androidDependencies
