@@ -6,6 +6,6 @@ Source code of the Android app you can [download from here](https://play.google.
 
 ## Build status
 
-[![CircleCI](https://circleci.com/gh/Dzhuneyt/Get-Device-ID-for-Android.svg?style=svg)](https://circleci.com/gh/Dzhuneyt/Get-Device-ID-for-Android)
+[![CircleCI](https://circleci.com/gh/Dzhuneyt/Android-App---Get-Device-ID.svg?style=svg)](https://circleci.com/gh/Dzhuneyt/Android-App---Get-Device-ID)
 
-[![Build Status](https://travis-ci.org/Dzhuneyt/Get-Device-ID-for-Android.svg?branch=master)](https://travis-ci.org/Dzhuneyt/Get-Device-ID-for-Android)
+[![Build Status](https://travis-ci.org/Dzhuneyt/Android-App---Get-Device-ID.svg?branch=master)](https://travis-ci.org/Dzhuneyt/Android-App---Get-Device-ID)
